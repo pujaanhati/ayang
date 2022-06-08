@@ -1,0 +1,7 @@
+.container h1{
+    margin-top: 20px;
+}
+.lagu{
+    display: flex;
+    justify-content: center;
+}
